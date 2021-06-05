@@ -1,2 +1,2 @@
 ./seamless_image_gen
-fastapi[all]==0.65.1
+streamlit==0.82.0
